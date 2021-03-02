@@ -4,6 +4,7 @@ itertools - combinations(조합), permutations(순열)
     * use with map()
 
 math - sqrt(제곱근 or ** 0.5), ceil(올림)
+re(아마 문자열?) - sub()
 '''
 from itertools import combinations, permutations
 
