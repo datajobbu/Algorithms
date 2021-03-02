@@ -1,8 +1,15 @@
 # Python Algorithms
 
-Programmers 문제 풀이
+```
+Algorithm
+    |
+    |____ README.md
+    |____ TEAMNOTE
+    |____ PROGRAMMERS
+    |____ BAEKJOON
+```
 
-양식
+문제 풀이 양식(프로그래머스, 백준)
 
 '''
 
