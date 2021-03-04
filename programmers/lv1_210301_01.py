@@ -39,7 +39,7 @@ def solution1(numbers):
     comb_list = list(combinations(numbers, 2))
 
     for i in comb_list:
-        answer.append(i[0]+i[1])
+        answer.append(i[0] + i[1])
     answer = list(set(answer))
     answer.sort()
 
