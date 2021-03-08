@@ -5,7 +5,7 @@ Algorithm
     |
     |____ README.md
     |____ TEAMNOTE
-    |____ PROGRAMMERS
+    |____ PROGRAMMERS(lv1은 생략)
     |____ BAEKJOON
 ```
 
