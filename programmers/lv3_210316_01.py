@@ -61,6 +61,6 @@ def solution1(arguments):
             pass
 
     if len(answer) is 0:
-        return [0, 0
-               ]
+        return [0, 0]
+
     return [max(answer), min(answer)]
