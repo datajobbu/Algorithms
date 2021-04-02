@@ -18,3 +18,19 @@ def solution(n):
         a, b = b, a+b
 
     return a % 1234567
+
+' ------ '
+
+def solution1(n):
+    """피보나치 반복적 동적 계획법 풀이"""
+    cache = [1 for _ in range(n+1)]
+    cache[1] = 1
+
+    for i in range(2, n+1):
+        cache[i] = cache[i-1] + cache[i-2]
+    
+    return cache[n] % 1234567
+    
+
+print(solution(100))
+print(solution1(100))
