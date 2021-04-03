@@ -1,12 +1,12 @@
 # Python Algorithms
 
 ```
-Algorithm
+Algorithms
     |
-    |____ README.md
+    |____ README
     |____ TEAMNOTE
-    |____ PROGRAMMERS(lv1은 생략)
-    |____ sql
+    |____ PROGRAMMERS
+    |____ SQL
 ```
 
 ## 문제 풀이 양식(프로그래머스, 백준)
