@@ -6,7 +6,7 @@ Algorithm
     |____ README.md
     |____ TEAMNOTE
     |____ PROGRAMMERS(lv1은 생략)
-    |____ BAEKJOON
+    |____ sql
 ```
 
 ## 문제 풀이 양식(프로그래머스, 백준)
